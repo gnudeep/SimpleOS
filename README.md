@@ -1,6 +1,6 @@
 # SimpleOS
 
-Code from http://wiki.osdev.org/Bare_Bones
+Code is from http://wiki.osdev.org/Bare_Bones
 
 ## How to build the soruce
 ```bash
