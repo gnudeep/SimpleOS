@@ -1,7 +1,7 @@
 # SimpleOS
 	Code from http://wiki.osdev.org/Bare_Bones
 
-#How to build the soruce
+# How to build the source
 	./build.sh
 
 #How to run the binary
