@@ -1,12 +1,17 @@
 # SimpleOS
 	Code from http://wiki.osdev.org/Bare_Bones
 
-# How to build the source
-	./build.sh
+## How to build the source
 
-#How to run the binary
-	qemu-system-i386 -kernel kernel.bin
+```sh
+./build.sh
+```
 
-	
-#Platforms
-	Tested on Ubuntu 14.10 64bit	
+# How to run the binary
+
+```sh
+qemu-system-i386 -kernel kernel.bin
+```
+
+## Platforms
+        Tested on Ubuntu 14.10 64bit
